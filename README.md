@@ -22,13 +22,13 @@ Para rodar a aplicação, siga estas etapas:
    - **Clone o Repositório:**
 
      ```bash
-     https://github.com/VikitorXD/MEDCONNECT.git
+     https://github.com/VikitorXD/Projeto-Oasis.git
      ```
 
    - **Navegue até o Diretório do Projeto:**
 
      ```bash
-     cd medconnect
+     cd ProjetoOasis
      ```
 
 3. **Execução:**
