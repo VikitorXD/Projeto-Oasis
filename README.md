@@ -52,3 +52,7 @@ Para rodar a aplicação, siga estas etapas:
 **Arquitetura:**
 
 [PDF](https://github.com/VikitorXD/Projeto-Oasis/blob/a85f8d07437e7e784325c48eccd09742e2030c9d/documentos/Projeto%20Oasis.pdf)
+
+## Vídeo de Apresentação
+
+Assista ao vídeo de apresentação da nossa proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar [aqui](https://www.youtube.com/watch?v=QElcXJ6WF7Y).
